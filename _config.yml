@@ -1,0 +1,23 @@
+# Permalinks
+#
+# Use of `relative_permalinks` ensures post links from the index work properly.
+permalink:           pretty
+gems:
+  - jekyll-paginate
+
+# Setup
+title:               시각을 포기한다.
+tagline:             'by hipzoep'
+description:         '그래픽를 기반으로 여러가지 삶에 대한 내용을 적어보는 곳'
+url:                 http://hipzoep.github.io
+baseurl:             ''
+paginate:            5
+
+# About/contact
+author:
+  name:              Mark Otto
+  url:               https://twitter.com/mdo
+  email:             markdotto@gmail.com
+
+# Custom vars
+version:             1.0.0
